@@ -3,7 +3,7 @@
 - Create a database "Fashion_store"
 - Create table "Items"
 - Create columns
-    - Id
+    - Id (primary key autoincrement)
     - Cloth type
     - Category
     - Brand
